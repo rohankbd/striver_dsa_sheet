@@ -13,3 +13,10 @@ public class pat16 {
         }
     }
 }
+/*
+A
+BB
+CCC
+DDDD
+EEEEE
+ */

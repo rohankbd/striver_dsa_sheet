@@ -13,3 +13,10 @@ public class pat15 {
         }
     }
 }
+/*
+ABCDE
+ABCD
+ABC
+AB
+A
+ */

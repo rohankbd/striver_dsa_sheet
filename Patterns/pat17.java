@@ -21,3 +21,9 @@ public class pat17 {
         }
     }
 }
+/*
+   A
+  ABA
+ ABCBA
+ABCDCBA
+ */

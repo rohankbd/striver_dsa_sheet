@@ -2,7 +2,7 @@ package Patterns;
 
 public class pat21 {
     public static void main(String[] args) {
-        int n = 2;
+        int n = 5;
         for (int i = 0; i < 1; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print("*");
@@ -36,3 +36,11 @@ public class pat21 {
 //     }
 //     System.out.println();
 // }
+
+/*
+*****
+*   *
+*   *
+*   *
+*****
+ */
